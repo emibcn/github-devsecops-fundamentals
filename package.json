@@ -30,7 +30,7 @@
   "devDependencies": {
     "@playwright/test": "^1.53.1",
     "@types/node": "^24.0.3",
-    "jest": "^30.0.0",
+    "jest": "^30.0.2",
     "jest-environment-jsdom": "^30.0.2"
   }
 }
