@@ -29,7 +29,7 @@
   "homepage": "https://github.com/githubuniverseworkshops/github-devsecops-fundamentals#readme",
   "devDependencies": {
     "@playwright/test": "^1.58.1",
-    "@types/node": "^25.2.0",
+    "@types/node": "^25.2.1",
     "jest": "^30.2.0",
     "jest-environment-jsdom": "^30.2.0"
   }
